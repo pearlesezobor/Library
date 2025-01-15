@@ -1,0 +1,4 @@
+﻿  driver.cpp
+C:\Users\pearl\OneDrive\Spring 2024 Homework\lab4\lab4\driver.cpp(36,34): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\pearl\OneDrive\Spring 2024 Homework\lab4\lab4\driver.cpp(49,40): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  lab4.vcxproj -> C:\Users\pearl\OneDrive\Spring 2024 Homework\lab4\x64\Debug\lab4.exe
